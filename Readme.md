@@ -6,6 +6,11 @@ exposing convenience wrappers for common Natural Language Processing (NLP)
 tasks such as HTML stripping, tokenization, stopword handling, keyword
 extraction, and optional enrichment via third-party libraries.
 
+## Installation from GitHub
+```bash
+pip install git+git@github.com:Kushala-Manjunath/Text-Preprocess.git --upgrade --force-reinstall
+```
+
 ## Installation
 
 Install the published package from PyPI:
