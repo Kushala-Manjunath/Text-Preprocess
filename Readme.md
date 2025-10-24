@@ -11,14 +11,6 @@ extraction, and optional enrichment via third-party libraries.
 pip install git+git@github.com:Kushala-Manjunath/Text-Preprocess.git --upgrade --force-reinstall
 ```
 
-## Installation
-
-Install the published package from PyPI:
-
-```bash
-pip install preprocess
-```
-
 To work from a local checkout instead, run:
 
 ```bash
