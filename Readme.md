@@ -8,7 +8,7 @@ extraction, and optional enrichment via third-party libraries.
 
 ## Installation from GitHub
 ```bash
-pip install git+git@github.com:Kushala-Manjunath/Text-Preprocess.git --upgrade --force-reinstall
+pip install git+https://github.com/Kushala-Manjunath/Text-Preprocess.git --upgrade --force-reinstall
 ```
 
 To work from a local checkout instead, run:
